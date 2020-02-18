@@ -4,7 +4,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Template Jumbotron, usando Bootstrap.</title>
+    <title>AliceCare</title>
 
     <!-- Principal CSS do Bootstrap -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
@@ -18,8 +18,8 @@
       <!-- Principal jumbotron, para a principal mensagem de marketing ou call to action -->
       <div class="jumbotron">
         <div class="container">
-          <h1 class="display-3">Care Hospital</h1>
-          <p>Um hospital pronto para te atender.</p>
+          <h1 class="display-3">AliceCare</h1>
+          <p>Página dedicada aos serviços Web prestados na área médica.</p>
         </div>
       </div>
 
