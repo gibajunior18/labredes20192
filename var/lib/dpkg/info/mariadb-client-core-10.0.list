@@ -1,0 +1,16 @@
+/.
+/usr
+/usr/share
+/usr/share/man
+/usr/share/man/man1
+/usr/share/man/man1/mysql_embedded.1.gz
+/usr/share/man/man1/mysqlcheck.1.gz
+/usr/share/man/man1/mysql.1.gz
+/usr/share/doc
+/usr/share/doc/mariadb-client-core-10.0
+/usr/share/doc/mariadb-client-core-10.0/copyright
+/usr/share/doc/mariadb-client-core-10.0/changelog.Debian.gz
+/usr/bin
+/usr/bin/mysql_embedded
+/usr/bin/mysqlcheck
+/usr/bin/mysql

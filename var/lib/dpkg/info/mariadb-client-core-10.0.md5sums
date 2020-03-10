@@ -1,0 +1,8 @@
+db683b76e8035487619b82a319c794ce  usr/bin/mysql
+9f0418a6088c5015a8703c507e6a5786  usr/bin/mysql_embedded
+455cf2084fed3d702bc5811dda57cc8c  usr/bin/mysqlcheck
+d55325328d7bc3a20f7e5fd46cd0240f  usr/share/doc/mariadb-client-core-10.0/changelog.Debian.gz
+f2fa39b8b8ed222afc3907923197d2d5  usr/share/doc/mariadb-client-core-10.0/copyright
+af20783b18302a6173b1f5bbb0baf684  usr/share/man/man1/mysql.1.gz
+78c0b0b2c5d5d6f63fda1267f57ed3b3  usr/share/man/man1/mysql_embedded.1.gz
+5db9d3a6a7bebfc7d8e6c9fa44242dad  usr/share/man/man1/mysqlcheck.1.gz

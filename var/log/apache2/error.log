@@ -1,0 +1,68 @@
+[Fri Feb 07 00:19:57.209342 2020] [mpm_prefork:notice] [pid 11] AH00163: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Fri Feb 07 00:19:57.209470 2020] [core:notice] [pid 11] AH00094: Command line: '/usr/sbin/apache2'
+[Sun Feb 16 01:59:49.312760 2020] [core:warn] [pid 11] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Feb 16 01:59:49.381171 2020] [mpm_prefork:notice] [pid 11] AH00163: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Sun Feb 16 01:59:49.381236 2020] [core:notice] [pid 11] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Feb 18 22:57:58.613041 2020] [core:warn] [pid 11] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Feb 18 22:57:58.745613 2020] [mpm_prefork:notice] [pid 11] AH00163: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Tue Feb 18 22:57:58.745673 2020] [core:notice] [pid 11] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Feb 19 21:14:27.408047 2020] [core:warn] [pid 11] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Feb 19 21:14:27.482609 2020] [mpm_prefork:notice] [pid 11] AH00163: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Wed Feb 19 21:14:27.482672 2020] [core:notice] [pid 11] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Feb 28 01:14:18.247773 2020] [core:warn] [pid 11] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Feb 28 01:14:18.290198 2020] [mpm_prefork:notice] [pid 11] AH00163: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Fri Feb 28 01:14:18.290258 2020] [core:notice] [pid 11] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Mar 03 22:06:35.959689 2020] [core:warn] [pid 11] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Mar 03 22:06:35.965394 2020] [mpm_prefork:notice] [pid 11] AH00163: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Tue Mar 03 22:06:35.965609 2020] [core:notice] [pid 11] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Mar 03 22:08:50.388656 2020] [core:warn] [pid 11] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Mar 03 22:08:50.393809 2020] [mpm_prefork:notice] [pid 11] AH00163: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Tue Mar 03 22:08:50.393877 2020] [core:notice] [pid 11] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Mar 03 22:21:54.855807 2020] [core:warn] [pid 11] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Mar 03 22:21:54.860452 2020] [mpm_prefork:notice] [pid 11] AH00163: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Tue Mar 03 22:21:54.860514 2020] [core:notice] [pid 11] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Mar 03 22:25:28.209616 2020] [mpm_prefork:notice] [pid 11] AH00169: caught SIGTERM, shutting down
+[Tue Mar 03 22:25:31.413618 2020] [mpm_prefork:notice] [pid 451] AH00163: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Tue Mar 03 22:25:31.413749 2020] [core:notice] [pid 451] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Mar 03 22:26:52.889458 2020] [mpm_prefork:notice] [pid 451] AH00169: caught SIGTERM, shutting down
+[Tue Mar 03 22:27:09.747568 2020] [mpm_prefork:notice] [pid 549] AH00163: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Tue Mar 03 22:27:09.747688 2020] [core:notice] [pid 549] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Mar 03 22:27:16.491460 2020] [mpm_prefork:notice] [pid 549] AH00169: caught SIGTERM, shutting down
+[Tue Mar 03 22:30:25.272093 2020] [mpm_prefork:notice] [pid 648] AH00163: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Tue Mar 03 22:30:25.272232 2020] [core:notice] [pid 648] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Mar 03 22:30:42.954320 2020] [mpm_prefork:notice] [pid 648] AH00169: caught SIGTERM, shutting down
+[Tue Mar 03 22:30:45.520801 2020] [mpm_prefork:notice] [pid 709] AH00163: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Tue Mar 03 22:30:45.520917 2020] [core:notice] [pid 709] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Mar 03 22:57:03.250600 2020] [:error] [pid 714] [client 10.10.10.2:35120] PHP Warning:  include(top_menu.php): failed to open stream: No such file or directory in /var/www/html/index_1.php on line 43
+[Tue Mar 03 22:57:03.250662 2020] [:error] [pid 714] [client 10.10.10.2:35120] PHP Warning:  include(): Failed opening 'top_menu.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/index_1.php on line 43
+[Tue Mar 03 22:57:10.249628 2020] [:error] [pid 715] [client 10.10.10.2:35122] script '/var/www/html/ope.php' not found or unable to stat, referer: http://10.10.10.2:2091/index_1.php
+[Tue Mar 03 22:57:15.162807 2020] [:error] [pid 715] [client 10.10.10.2:35122] PHP Warning:  include(top_menu.php): failed to open stream: No such file or directory in /var/www/html/index_1.php on line 43
+[Tue Mar 03 22:57:15.162891 2020] [:error] [pid 715] [client 10.10.10.2:35122] PHP Warning:  include(): Failed opening 'top_menu.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/index_1.php on line 43
+[Tue Mar 03 22:59:47.442745 2020] [:error] [pid 716] [client 10.10.10.2:35134] script '/var/www/html/sistemaihc/index.php' not found or unable to stat
+[Tue Mar 03 23:09:06.373035 2020] [mpm_prefork:notice] [pid 709] AH00169: caught SIGTERM, shutting down
+[Tue Mar 03 23:09:07.521589 2020] [mpm_prefork:notice] [pid 1672] AH00163: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Tue Mar 03 23:09:07.521721 2020] [core:notice] [pid 1672] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Mar 03 23:11:09.880551 2020] [mpm_prefork:notice] [pid 1672] AH00169: caught SIGTERM, shutting down
+[Tue Mar 03 23:11:10.970678 2020] [mpm_prefork:notice] [pid 1737] AH00163: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Tue Mar 03 23:11:10.970822 2020] [core:notice] [pid 1737] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Mar 03 23:13:17.216359 2020] [:error] [pid 1744] [client 10.10.10.2:35170] PHP Notice:  Undefined index: login in /var/www/html/sistemaihc/sistema.php on line 15, referer: http://10.10.10.2:2091/sistemaihc/index.php
+[Tue Mar 03 23:13:23.551780 2020] [:error] [pid 1744] [client 10.10.10.2:35170] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /var/www/html/sistemaihc/ope.php:10\nStack trace:\n#0 {main}\n  thrown in /var/www/html/sistemaihc/ope.php on line 10, referer: http://10.10.10.2:2091/sistemaihc/index.php
+[Tue Mar 03 23:16:11.541090 2020] [:error] [pid 1749] [client 10.10.10.2:35382] PHP Notice:  Undefined index: login in /var/www/html/sistemaihc/sistema.php on line 15, referer: http://10.10.10.2:2091/sistemaihc/
+[Tue Mar 03 23:16:33.132410 2020] [:error] [pid 1742] [client 10.10.10.2:35390] PHP Notice:  Undefined index: login in /var/www/html/sistemaihc/sistema.php on line 15, referer: http://10.10.10.2:2091/sistemaihc/index.php
+[Tue Mar 03 23:17:01.903788 2020] [:error] [pid 1744] [client 10.10.10.2:35392] PHP Notice:  Undefined index: login in /var/www/html/sistemaihc/sistema.php on line 15, referer: http://10.10.10.2:2091/sistemaihc/
+[Tue Mar 03 23:18:20.538500 2020] [:error] [pid 1743] [client 10.10.10.2:35394] PHP Notice:  Undefined variable: logado in /var/www/html/sistemaihc/sistema.php on line 27, referer: http://10.10.10.2:2091/sistemaihc/index.php
+[Tue Mar 03 23:18:33.800010 2020] [:error] [pid 1744] [client 10.10.10.2:35408] PHP Notice:  Undefined index: login in /var/www/html/sistemaihc/cadastro/cad_produto.php on line 9, referer: http://10.10.10.2:2091/sistemaihc/sistema.php
+[Tue Mar 03 23:18:33.800311 2020] [:error] [pid 1744] [client 10.10.10.2:35408] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /var/www/html/sistemaihc/cadastro/cad_produto.php:89\nStack trace:\n#0 {main}\n  thrown in /var/www/html/sistemaihc/cadastro/cad_produto.php on line 89, referer: http://10.10.10.2:2091/sistemaihc/sistema.php
+[Tue Mar 03 23:18:33.806582 2020] [:error] [pid 1744] [client 10.10.10.2:35408] script '/var/www/html/sistemaihc/cadastro/index.php' not found or unable to stat, referer: http://10.10.10.2:2091/sistemaihc/sistema.php
+[Tue Mar 03 23:18:54.186155 2020] [:error] [pid 1756] [client 10.10.10.2:35410] PHP Notice:  Undefined index: login in /var/www/html/sistemaihc/cadastro/cad_produto.php on line 9, referer: http://10.10.10.2:2091/sistemaihc/sistema.php
+[Tue Mar 03 23:18:54.186373 2020] [:error] [pid 1756] [client 10.10.10.2:35410] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /var/www/html/sistemaihc/cadastro/cad_produto.php:89\nStack trace:\n#0 {main}\n  thrown in /var/www/html/sistemaihc/cadastro/cad_produto.php on line 89, referer: http://10.10.10.2:2091/sistemaihc/sistema.php
+[Tue Mar 03 23:18:54.267841 2020] [:error] [pid 1756] [client 10.10.10.2:35410] script '/var/www/html/sistemaihc/cadastro/index.php' not found or unable to stat, referer: http://10.10.10.2:2091/sistemaihc/sistema.php
+[Tue Mar 03 23:19:56.733995 2020] [:error] [pid 1757] [client 10.10.10.2:35412] PHP Notice:  Undefined variable: logado in /var/www/html/sistemaihc/sistema.php on line 27, referer: http://10.10.10.2:2091/sistemaihc/sistema.php
+[Tue Mar 03 23:21:25.472160 2020] [:error] [pid 1752] [client 10.10.10.2:35440] PHP Notice:  Undefined variable: logado in /var/www/html/sistemaihc/sistema.php on line 27, referer: http://10.10.10.2:2091/sistemaihc/sistema.php
+[Tue Mar 03 23:21:28.252295 2020] [:error] [pid 1752] [client 10.10.10.2:35440] PHP Notice:  Undefined index: login in /var/www/html/sistemaihc/cadastro/cad_produto.php on line 9, referer: http://10.10.10.2:2091/sistemaihc/sistema.php
+[Tue Mar 03 23:21:28.252455 2020] [:error] [pid 1752] [client 10.10.10.2:35440] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /var/www/html/sistemaihc/cadastro/cad_produto.php:89\nStack trace:\n#0 {main}\n  thrown in /var/www/html/sistemaihc/cadastro/cad_produto.php on line 89, referer: http://10.10.10.2:2091/sistemaihc/sistema.php
+[Tue Mar 03 23:21:29.373943 2020] [:error] [pid 1752] [client 10.10.10.2:35440] script '/var/www/html/sistemaihc/cadastro/index.php' not found or unable to stat, referer: http://10.10.10.2:2091/sistemaihc/sistema.php
+[Tue Mar 03 23:21:39.744282 2020] [:error] [pid 1741] [client 10.10.10.2:35448] PHP Notice:  Undefined index: login in /var/www/html/sistemaihc/cadastro/cadastrar_cliente.php on line 8, referer: http://10.10.10.2:2091/sistemaihc/sistema.php
+[Tue Mar 03 23:21:44.163329 2020] [:error] [pid 1741] [client 10.10.10.2:35448] PHP Notice:  Undefined index: login in /var/www/html/sistemaihc/cadastro/cad_fornecedor.php on line 10, referer: http://10.10.10.2:2091/sistemaihc/sistema.php
+[Tue Mar 03 23:21:44.278871 2020] [:error] [pid 1741] [client 10.10.10.2:35448] script '/var/www/html/sistemaihc/cadastro/index.php' not found or unable to stat, referer: http://10.10.10.2:2091/sistemaihc/sistema.php
+[Tue Mar 03 23:21:48.928623 2020] [:error] [pid 1741] [client 10.10.10.2:35448] PHP Notice:  Undefined index: login in /var/www/html/sistemaihc/cadastro/cadastrar_cliente.php on line 8, referer: http://10.10.10.2:2091/sistemaihc/sistema.php

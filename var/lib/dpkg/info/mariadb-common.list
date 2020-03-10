@@ -1,0 +1,11 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/mariadb-common
+/usr/share/doc/mariadb-common/copyright
+/usr/share/doc/mariadb-common/changelog.Debian.gz
+/etc
+/etc/mysql
+/etc/mysql/mariadb.cnf
+/etc/mysql/mariadb.conf.d

@@ -1,0 +1,6 @@
+/etc
+/etc/xdg
+/etc/xdg/autostart
+/etc/xdg/autostart/gnome-keyring-secrets.desktop
+/etc/xdg/autostart/gnome-keyring-pkcs11.desktop
+/etc/xdg/autostart/gnome-keyring-ssh.desktop
