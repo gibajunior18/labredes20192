@@ -27,14 +27,14 @@
         <!-- Exemplo de linha de colunas -->
         <div class="row" align="center">
           <div class="col-md-3">
-            <h2>Serviço 1</h2>
-            <p>Este serviço trata de fazer pesquisa sobre o corona vírus</p>
-            <p><a class="btn btn-secondary" href="https://www.google.com.br/search?&q=coronavirus" role="button">Ver detalhes »</a></p>
+            <h2>Sistema Integrado de Gerenciamento de Estoque Hospitalar</h2>
+            <p>Este serviço trata de todo o gerenciamento de estoque hospitalar</p>
+            <p><a class="btn btn-secondary" href="/sistemaihc" role="button">Ver detalhes »</a></p>
           </div>
           <div class="col-md-3">
-            <h2>Serviço 2</h2>
-            <p>Breve descrição do serviço</p>
-            <p><a class="btn btn-secondary" href="#" role="button">Ver detalhes »</a></p>
+            <h2>Sistema de Agendamento de Salas</h2>
+            <p>Gerenciador de alocacao das salas para atendimento medico</p>
+            <p><a class="btn btn-secondary" href="/sas" role="button">Ver detalhes »</a></p>
           </div>
           <div class="col-md-3">
             <h2>Serviço 3</h2>
