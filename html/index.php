@@ -37,9 +37,9 @@
             <p><a class="btn btn-secondary" href="/sas" role="button">Ver detalhes »</a></p>
           </div>
           <div class="col-md-3">
-            <h2>Serviço 3</h2>
-            <p>Breve descrição do serviço</p>
-            <p><a class="btn btn-secondary" href="#" role="button">Ver detalhes »</a></p>
+            <h2>Tickets de Atendimento</h2>
+            <p>Gerenciador de tickets para serviços administrativos.</p>
+            <p><a class="btn btn-secondary" href="/" role="button">Ver detalhes »</a></p>
           </div>
 	  <div class="col-md-3">
             <h2>Serviço 4</h2>
