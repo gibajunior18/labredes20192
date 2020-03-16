@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ C:\Users\thiag\Downloads\sistema-tickets-master\sistema-tickets-master\index.php?q=$1 [QSA,L]
