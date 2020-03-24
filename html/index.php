@@ -42,9 +42,9 @@
             <p><a class="btn btn-secondary" href="/" role="button">Ver detalhes »</a></p>
           </div>
 	  <div class="col-md-3">
-            <h2>Serviço 4</h2>
-            <p>Breve descrição do serviço</p>
-            <p><a class="btn btn-secondary" href="#" role="button">Ver detalhes »</a></p>
+            <h2>Chat e serviço de email</h2>
+            <p>Serviço de chat e serviço de email.</p>
+            <p><a class="btn btn-secondary" href="/kchat" role="button">Ver detalhes »</a></p>
           </div>
           <div class="col-md-3">
             <h2>Serviço 5</h2>
